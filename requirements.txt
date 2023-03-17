@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+python-multipart
+requests
+torf
+pandas_profiling
+python-dotenv
+ipython
+ipywidgets
